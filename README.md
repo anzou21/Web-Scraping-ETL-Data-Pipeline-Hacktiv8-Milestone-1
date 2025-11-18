@@ -56,11 +56,6 @@ In this project, I:
 
 ## 🗄️ Database Schema (ERD)
 
-Below is the ERD for the normalized database:
-
-```
-/mnt/data/coda_P0M1_aniszou.png
-```
 
 ### **staging** (Temporary Raw Storage)
 
